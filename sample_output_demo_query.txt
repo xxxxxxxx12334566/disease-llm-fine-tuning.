@@ -1,0 +1,8 @@
+Symptoms: Fever, headache, body pain
+
+Model response:
+Instruction: Identify the disease pattern based on symptoms.
+Input: Fever, headache, body pain
+Output: Disease: Arthritis
+Explanation: These symptoms frequently match Arthritis patterns in the dataset.
+Note: This is not medical or diagnostic advice. Consult a real doctor for health concerns.
