@@ -25,3 +25,5 @@ Example query:
 
 ```text
 Symptoms: Fever, headache, body pain
+## video link for training and exapmle testcase result:
+https://drive.google.com/file/d/15utSfxptQYBaEWt9e68lVi5_BwBumdXV/view?usp=sharing
